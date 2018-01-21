@@ -1,4 +1,4 @@
-set myProjectpath=C:\workspace\WebDriverJenkinsTest\javaTrainingPrograms
+set myProjectpath=C:\Users\V I N E E T H\Desktop\javaTrainingProjects\VNSelfTrainingPrograms
 echo %myProjectpath%
 cd %myProjectpath%
 set classpath=%myProjectpath%\bin;%myProjectpath%\lib\*
